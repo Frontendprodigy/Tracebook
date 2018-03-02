@@ -1,0 +1,15 @@
+How to use git
+
+1->  git init: to initialize a new git repository
+
+2i. git add .: to add files to be commited
+
+2. git commit: to register your changes
+
+3. git status: to view file status whether commited or not
+
+4. git log: to view commits
+
+5. git clone: to clone from online repository
+
+6. git push -u origin master: to push your changes online
